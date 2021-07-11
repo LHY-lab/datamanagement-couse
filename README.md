@@ -1,4 +1,8 @@
 # datamanagement-couse
+Project1
+I connected python to mysql and added data. I created new tables based on the characteristics of given data and added them to mysql through preprocessing.
+
+Project2
 This is the project I did on Datamanagement lecture at SNU.
 The data I used were all from a website called 'A'. This website encourages interaction between mentors and mentees. Users can use tags to identify their fields, questions and generally mentees follow famous mentors for more interaction. Mentors can answer questions that mentee asks and can also eastablish a new studying group based on people's location and majors. 
 on part1(), I was required to make a new table called mentor and add mentor data to it through python.
